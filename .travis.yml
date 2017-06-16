@@ -1,4 +1,10 @@
 language: python
 python:
   - "2.7"
+env:
+  - STRETCH=false
+  - STRETCH=true
+matrix:
+  allow_failures:
+    - env: STRETCH=true
 script: py.test
