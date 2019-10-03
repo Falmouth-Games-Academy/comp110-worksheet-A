@@ -2,7 +2,7 @@
 Base repository for COMP110, assignment 1, worksheet 1
 
 ## YouTube playlist
-Paste a link to your YouTube playlist here.
+https://youtu.be/Dfnrhk5fqkU
 
 ## Submission instructions
 
